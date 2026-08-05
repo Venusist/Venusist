@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **PostgreSQL & Advanced SQL queries**
 
-- 📫 How to reach me **www.linkedin.com/in/ipek-köse-a1b557289 | ipekkose283@gmail.com**
+- 📫 How to reach me **ipekkose283@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
