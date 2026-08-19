@@ -14,9 +14,6 @@
  <a href="https://www.linkedin.com/in/ipek-k%C3%B6se-a1b557289/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-  <a href="https://instagram.com/ipekkk.kose" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
